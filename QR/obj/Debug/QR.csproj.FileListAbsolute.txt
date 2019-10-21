@@ -1,0 +1,47 @@
+C:\DATA\AForge Deneme Kodları\QR\QR\bin\Debug\QR.exe.config
+C:\DATA\AForge Deneme Kodları\QR\QR\bin\Debug\QR.exe
+C:\DATA\AForge Deneme Kodları\QR\QR\bin\Debug\QR.pdb
+C:\DATA\AForge Deneme Kodları\QR\QR\bin\Debug\AForge.dll
+C:\DATA\AForge Deneme Kodları\QR\QR\bin\Debug\AForge.Video.DirectShow.dll
+C:\DATA\AForge Deneme Kodları\QR\QR\bin\Debug\AForge.Video.dll
+C:\DATA\AForge Deneme Kodları\QR\QR\bin\Debug\MessagingToolkit.QRCode.dll
+C:\DATA\AForge Deneme Kodları\QR\QR\bin\Debug\zxing.dll
+C:\DATA\AForge Deneme Kodları\QR\QR\bin\Debug\zxing.presentation.dll
+C:\DATA\AForge Deneme Kodları\QR\QR\bin\Debug\AForge.xml
+C:\DATA\AForge Deneme Kodları\QR\QR\bin\Debug\AForge.Video.xml
+C:\DATA\AForge Deneme Kodları\QR\QR\bin\Debug\AForge.Video.DirectShow.xml
+C:\DATA\AForge Deneme Kodları\QR\QR\bin\Debug\zxing.pdb
+C:\DATA\AForge Deneme Kodları\QR\QR\bin\Debug\zxing.xml
+C:\DATA\AForge Deneme Kodları\QR\QR\bin\Debug\zxing.presentation.pdb
+C:\DATA\AForge Deneme Kodları\QR\QR\bin\Debug\zxing.presentation.xml
+C:\DATA\AForge Deneme Kodları\QR\QR\obj\Debug\QR.csprojAssemblyReference.cache
+C:\DATA\AForge Deneme Kodları\QR\QR\obj\Debug\QR.Form1.resources
+C:\DATA\AForge Deneme Kodları\QR\QR\obj\Debug\QR.Properties.Resources.resources
+C:\DATA\AForge Deneme Kodları\QR\QR\obj\Debug\QR.csproj.GenerateResource.cache
+C:\DATA\AForge Deneme Kodları\QR\QR\obj\Debug\QR.csproj.CoreCompileInputs.cache
+C:\DATA\AForge Deneme Kodları\QR\QR\obj\Debug\QR.csproj.CopyComplete
+C:\DATA\AForge Deneme Kodları\QR\QR\obj\Debug\QR.exe
+C:\DATA\AForge Deneme Kodları\QR\QR\obj\Debug\QR.pdb
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\bin\Debug\QR.exe.config
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\bin\Debug\QR.exe
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\bin\Debug\QR.pdb
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\bin\Debug\AForge.dll
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\bin\Debug\AForge.Video.DirectShow.dll
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\bin\Debug\AForge.Video.dll
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\bin\Debug\zxing.dll
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\bin\Debug\zxing.presentation.dll
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\bin\Debug\AForge.xml
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\bin\Debug\AForge.Video.xml
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\bin\Debug\AForge.Video.DirectShow.xml
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\bin\Debug\zxing.pdb
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\bin\Debug\zxing.xml
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\bin\Debug\zxing.presentation.pdb
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\bin\Debug\zxing.presentation.xml
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\obj\Debug\QR.csprojAssemblyReference.cache
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\obj\Debug\QR.Properties.Resources.resources
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\obj\Debug\QR.csproj.GenerateResource.cache
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\obj\Debug\QR.csproj.CoreCompileInputs.cache
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\obj\Debug\QR.csproj.CopyComplete
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\obj\Debug\QR.exe
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\obj\Debug\QR.pdb
+C:\DATA\YASEMIN\DERS\TasarımProjesi\QR KODU\AForge Deneme Kodları\QR\QR\obj\Debug\QR.KareKod.resources
